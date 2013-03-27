@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+#div_body_main{
+	background:linear-gradient(#FFF,#999); 
+	height:800px; width:1000px; 
+	border-radius:0px 0px 10px 10px; 
+	border:solid #FFF; border-width:1px; 
+	position:absolute; 
+	margin-top:1px; margin-left:160px 
+}
+#div_new_products{
+	background:#FFF;
+	height:240px; width:259px; border-radius:0px 0px 4px 4px;  border:solid #6CF; border-width:1px;
+	padding-top:3px;  
+	margin-top:16px; margin-left:731px; position:absolute; 
+}
+#div_utility_1{
+	background:#FFF;
+	height:240px; width:400px; border-radius:0px 0px 4px 4px;  border:solid #6CF; border-width:1px;
+	padding-top:3px;
+	margin-top:16px; margin-left:8px; position:absolute; 
+}
+
+#div_utility_2{
+	background:#FFF;
+		height:239px; width:300px; border-radius:0px 0px 4px 4px;  border:solid #6CF; border-width:1px;
+		padding-top:3px;
+		margin-top:16px; margin-left:421px; position:absolute; 
+}
+#div_footer{
+	
+}
+#div_headerDiv_1{
+	background:linear-gradient(#CCC,#FFF); ;height:30px; width:400px;border-radius:10px 10px 0px 0px;  border:solid #6CF; border-width:1px; padding-top:3px;
+		margin-top:-22px; margin-left:8px;  text-align:center; position:absolute; 	}
+#div_headerDiv_2{
+	background:linear-gradient(#CCC,#FFF); ;height:30px; width:300px;border-radius:10px 10px 0px 0px;  border:solid #6CF; border-width:1px; padding-top:3px;
+		margin-top:-22px; margin-left:421px;  text-align:center; position:absolute; 	}
+		
+#div_headerDiv_3{
+	background:linear-gradient(#CCC,#FFF); ;height:30px; width:259px;border-radius:10px 10px 0px 0px;  border:solid #6CF; border-width:1px; padding-top:3px;
+		margin-top:-21px; margin-left:731px;  text-align:center; position:absolute; 	}
+
+	#font_div_headerDiv_1{
+		font-size:18px;
+		font-family:"Arial Black", Gadget, sans-serif;
+		color:#630;
+	}
+/*several features of the container div*/
+	#div_container{
+		font-family:Verdana, Geneva, sans-serif;
+	}
+	#div_container h2{
+		font-size:17px;
+		color:#2A2A2A;
+	}
+	#div_container h4{
+		font-size:15px;
+		color:#2A2A2A;
+	}
+	#div_container p{
+		font-size:12px;
+	}
+	/*#div_container span{
+		font-size:12px;
+	}
+/* end of features of container div */
+#font_span{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+ a,visited{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #03C;
+	text-decoration: none;
+ }
+ a:hover{
+	 color:#006;
+ }
+ 
+ h4{
+	 font-family: Arial, Helvetica, sans-serif;
+	 color:#666;
+	 text-decoration: none;
+ }
+ h4:hover{
+	 color:#06F;
+ }
+ hr{
+	 color:#CCC;
+ }
+ hr:hover{
+	 }
+
